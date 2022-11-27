@@ -1,1 +1,3 @@
-# cjmakin
+# Chris Makin
+
+Software Engineering Student @ ASU
